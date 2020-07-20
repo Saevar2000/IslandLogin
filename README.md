@@ -3,8 +3,11 @@
 <h4 align="center">.NET Standard library that takes care of <a href="https://island.is/"> Island.is</a> login service token verification.</h4>
 
 <p align="center">
-    <a href="https://www.nuget.org/packages/IslandLogin">
+    <a href="https://www.nuget.org/packages/IslandLogin" target"_blank">
         <img src="https://img.shields.io/nuget/vpre/IslandLogin.svg" alt="NuGet Package">
+    </a>
+    <a href="https://github.com/bitarehf/Bitar/actions" target="_blank">
+        <img src="https://github.com/Saevar2000/IslandLogin/workflows/.NET%20Core/badge.svg" alt=".NET Core Build">
     </a>
 </p>
 
