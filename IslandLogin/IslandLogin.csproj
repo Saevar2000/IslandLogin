@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Sævar Gunnarsson</Authors>
+    <Company>Bitar ehf.</Company>
+    <Description>Takes care of Island.is login service token verification.</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <RepositoryUrl>https://github.com/Saevar2000/IslandLogin</RepositoryUrl>
+    <PackageTags></PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="island.crt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="island.crt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Security.Cryptography.Xml" Version="4.7.0" />
+  </ItemGroup>
+
+</Project>
