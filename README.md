@@ -9,6 +9,9 @@
     <a href="https://github.com/bitarehf/Bitar/actions" target="_blank">
         <img src="https://github.com/Saevar2000/IslandLogin/workflows/.NET%20Core/badge.svg" alt=".NET Core Build">
     </a>
+    <a href="https://github.com/Saevar2000/IslandLogin/blob/master/LICENSE" target="_blank">
+        <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+    </a>
 </p>
 
 ## 🎉 Features
