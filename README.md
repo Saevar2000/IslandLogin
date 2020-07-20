@@ -9,7 +9,7 @@
 </p>
 
 ## 🎉 Features
-- &nbsp;✖ Cross-platform based on [.NET Standard 2.0](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
+- ✖ Cross-platform based on [.NET Standard 2.0](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
 - 💪 Strongly ish typed models 
 
 ## 📦 Getting Started
