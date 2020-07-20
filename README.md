@@ -10,6 +10,7 @@
 
 ## 🎉 Features
 - ✖ Cross-platform based on [.NET Standard 2.0](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
+- 👴 Uses [System.Security.Cryptography.Xml](https://www.nuget.org/packages/System.Security.Cryptography.Xml/)
 - 💪 Strongly ish typed models 
 
 ## 📦 Getting Started
