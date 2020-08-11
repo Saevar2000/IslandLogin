@@ -6,7 +6,7 @@
     <a href="https://www.nuget.org/packages/IslandLogin" target"_blank">
         <img src="https://img.shields.io/nuget/vpre/IslandLogin.svg" alt="NuGet Package">
     </a>
-    <a href="https://github.com/bitarehf/Bitar/actions" target="_blank">
+    <a href="https://github.com/Saevar2000/IslandLogin/actions" target="_blank">
         <img src="https://github.com/Saevar2000/IslandLogin/workflows/.NET%20Core/badge.svg" alt=".NET Core Build">
     </a>
     <a href="https://github.com/Saevar2000/IslandLogin/blob/master/LICENSE" target="_blank">
