@@ -63,4 +63,4 @@ Console.WriteLine($"UserId: {il.Island.UserId}");
 
 ## 🐰 Technical specifications
 
-- [Leiðbeiningar til tæknimanna vegna innskráningarþjónustu Ísland.is](https://island.is/wp-content/uploads/2020/03/innskraning-island-is-leidbeiningar-utg-2-0.619.pdf)
+- [Leiðbeiningar til tæknimanna vegna innskráningarþjónustu Ísland.is](https://island.is/innskraningarthjonusta/taeknilegar-upplysingar-taeknimenn)
